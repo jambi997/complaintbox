@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "complaintbox",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "pandorasbox",
+      "database_id": "c0984ec2-3f61-4b26-9d4b-28b79a9e3557"
+    }
+  ]
+}
